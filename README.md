@@ -1,6 +1,6 @@
 # new_project
 project test thu 
-nguyen thi tien 
+nguyen thi tien  
   1  irb
     2  sudo apt-get update
     3  sudo apt-get install curl
